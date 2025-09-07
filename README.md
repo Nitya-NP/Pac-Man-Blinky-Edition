@@ -11,5 +11,5 @@ Pac-Man: Blinky Edition  Pac-Man: Blinky Edition is a mini version of the classi
 ---
 
 # How to Run
-Go to the bin/Debug/folder.
-Double-click Pacman.exe to start the game. (Windows only)
+- Go to the bin/Debug/folder.
+- Double-click Pacman.exe to start the game. (Windows only)
